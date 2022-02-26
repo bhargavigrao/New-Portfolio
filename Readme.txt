@@ -1,6 +1,15 @@
-Thanks for downloading this template!
+Bhargavi Rao - Portfolio
+Below are the Bootstrap components : 
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Navbar
+Glyphicons
+Button groups 
+Carousel
+Social buttons
+Nav tabs and pills
+Labels
+Icons
+Bootstrap icos
+BS Fonts 
+Pagination
+Jumbotron
